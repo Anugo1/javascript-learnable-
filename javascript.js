@@ -13,6 +13,6 @@
 //     console.log("omo this awuf no go reach you")
 // }
 // console.log("Thank you for your patronage.")
-let name = "Anugo"
+let name = "Anugo1"
 console.log(name)
 let boy = "arinze"
