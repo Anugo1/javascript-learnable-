@@ -15,3 +15,4 @@
 // console.log("Thank you for your patronage.")
 let name = "Anugo"
 console.log(name)
+let boy = "arinze"
