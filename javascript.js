@@ -16,3 +16,14 @@
 // let name = "Anugo12"
 // console.log(name)
 // let boy = "arinze"
+// let company = "genesys"
+// console.log(company)
+
+// let first_name = "john" , last_name = "doe"
+// console.log(first_name , last_name)
+
+// primitive datatypes
+// const name = "john";
+// const age = 19
+// const scores = new Array(10, 32,4)
+// console.log(scores)
