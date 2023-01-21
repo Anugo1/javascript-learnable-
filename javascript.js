@@ -37,4 +37,35 @@ console.log(newpatt);
 // const name = "john";
 // const age = 19
 // const scores = new Array(10, 32,4)
+
 // console.log(sc
+
+
+// const scores = [20,30,40]
+// console.log(typeof scores)
+// const person ={
+//     name: "john",
+//     age: 19,
+//     isTall: true,
+//     address:{
+//         street:'No1 umushokene street',
+//         city:"enugu"
+//     }
+// }
+// console.log(person.address.city)
+
+// const {isTall,age} = person
+// console.log(age)
+
+// const score = 49
+// if (score <= 100 && score >=80) {
+//     console.log("A")   
+// }else if (score <= 80 && score  >= 60){
+//     console.log("b")
+// }else if (score < 60 && score >=50){
+//     console.log("c")
+// }
+// else{
+//     console.log("f")
+// }
+
