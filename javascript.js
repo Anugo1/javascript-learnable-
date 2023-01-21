@@ -13,7 +13,12 @@
 //     console.log("omo this awuf no go reach you")
 // }
 // console.log("Thank you for your patronage.")
-let name = "Anugo"
-console.log(name)
-let boy = "arinze"
-"my branch is better"
+// let name = "Anugo"
+// console.log(name)
+// let boy = "arinze"
+// "my branch is better"
+// console.log(/e/.exec("The best things in life are free!"));
+
+var patt = /e/;
+var newpatt= patt.test("The best things in life are free!");
+console.log(newpatt);

@@ -17,14 +17,14 @@
 // }
 
 // declaration
-// var studlyCapVar;
-// var properCamelCase;
-// var titleCaseOver;
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
 
-//  assignmesnt:
-// studlyCapVar = 10;
-// titleCaseOver = "A string";
-// properCamelCase = 9000;
+ assignmesnt:
+studlyCapVar = 10;
+titleCaseOver = "A string";
+properCamelCase = 9000;
 
 // var sum = 10 / 10
 // console.log(sum)
@@ -35,10 +35,10 @@
 // var sum = 12 + 3
 // console.log(sum)
 
-//increment:
-// var myvar = 66;
-// myvar++
-// console.log(myvar)
+increment:
+var myvar = 66;
+myvar++
+console.log(myvar)
 
 //decrement:
 // var myvar = 23
