@@ -13,6 +13,7 @@
 //     console.log("omo this awuf no go reach you")
 // }
 // console.log("Thank you for your patronage.")
+
 // let name = "Anugo"
 // console.log(name)
 // let boy = "arinze"
@@ -22,3 +23,18 @@
 var patt = /e/;
 var newpatt= patt.test("The best things in life are free!");
 console.log(newpatt);
+
+// let name = "Anugo12"
+// console.log(name)
+// let boy = "arinze"
+// let company = "genesys"
+// console.log(company)
+
+// let first_name = "john" , last_name = "doe"
+// console.log(first_name , last_name)
+
+// primitive datatypes
+// const name = "john";
+// const age = 19
+// const scores = new Array(10, 32,4)
+// console.log(sc
